@@ -1,8 +1,10 @@
 habits = [
+    
     ("Drink water", True),
     ("Read 10 pages", False),
     ("Exercise", True),
-    ("Sleep 8 hours", True)
+    ("Sleep 8 hours", True),
+    ("Study Python", True)
 ]
 
 for habit, completed in habits:
